@@ -38,4 +38,4 @@ client.setActivity('powered by discord.easy')
 client.login(YOUR_TOKEN_HERE)
 ```
 
-GREAT! We made our first bot! To learn more about this package go to [docs]()
+GREAT! We made our first bot! To learn more about this package go to [docs](https://github.com/pog-sister/discord.easy/blob/main/Docs.md)
