@@ -5,7 +5,7 @@ First we need to define our package paramaters.
 
 ```js
 const discord = require('discord.easy')
-const client = new discord.Client()
+const client = new discord.Client('?', 'auto')
 ```
 
 Now we can start our bot.
