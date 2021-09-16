@@ -20,7 +20,7 @@ After that we can also make our bot display a status and log something to the co
 client.once('ready' client => {
 console.log('Ready')
 })
-client.setActivity('your bot activity here')
+client.setActivity('Powered by discord.easy')
 ```
 
 Now lets put all of that together!
